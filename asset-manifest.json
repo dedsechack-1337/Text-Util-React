@@ -1,15 +1,15 @@
 {
-  "main.css": "/dedsechack-1337/Text-Util-React/static/css/main.ac2fc43c.chunk.css",
-  "main.js": "/dedsechack-1337/Text-Util-React/static/js/main.14a1ab75.chunk.js",
-  "main.js.map": "/dedsechack-1337/Text-Util-React/static/js/main.14a1ab75.chunk.js.map",
-  "static/js/1.444f0bc3.chunk.js": "/dedsechack-1337/Text-Util-React/static/js/1.444f0bc3.chunk.js",
-  "static/js/1.444f0bc3.chunk.js.map": "/dedsechack-1337/Text-Util-React/static/js/1.444f0bc3.chunk.js.map",
-  "static/js/2.3c016175.chunk.js": "/dedsechack-1337/Text-Util-React/static/js/2.3c016175.chunk.js",
-  "static/js/2.3c016175.chunk.js.map": "/dedsechack-1337/Text-Util-React/static/js/2.3c016175.chunk.js.map",
-  "runtime~main.js": "/dedsechack-1337/Text-Util-React/static/js/runtime~main.a68480d9.js",
-  "runtime~main.js.map": "/dedsechack-1337/Text-Util-React/static/js/runtime~main.a68480d9.js.map",
-  "static/css/main.ac2fc43c.chunk.css.map": "/dedsechack-1337/Text-Util-React/static/css/main.ac2fc43c.chunk.css.map",
-  "index.html": "/dedsechack-1337/Text-Util-React/index.html",
-  "precache-manifest.590dd0420be00a6b68068a69cbdbee95.js": "/dedsechack-1337/Text-Util-React/precache-manifest.590dd0420be00a6b68068a69cbdbee95.js",
-  "service-worker.js": "/dedsechack-1337/Text-Util-React/service-worker.js"
+  "main.css": "/Text-Util-React/static/css/main.ac2fc43c.chunk.css",
+  "main.js": "/Text-Util-React/static/js/main.14a1ab75.chunk.js",
+  "main.js.map": "/Text-Util-React/static/js/main.14a1ab75.chunk.js.map",
+  "static/js/1.444f0bc3.chunk.js": "/Text-Util-React/static/js/1.444f0bc3.chunk.js",
+  "static/js/1.444f0bc3.chunk.js.map": "/Text-Util-React/static/js/1.444f0bc3.chunk.js.map",
+  "static/js/2.3c016175.chunk.js": "/Text-Util-React/static/js/2.3c016175.chunk.js",
+  "static/js/2.3c016175.chunk.js.map": "/Text-Util-React/static/js/2.3c016175.chunk.js.map",
+  "runtime~main.js": "/Text-Util-React/static/js/runtime~main.87023e6f.js",
+  "runtime~main.js.map": "/Text-Util-React/static/js/runtime~main.87023e6f.js.map",
+  "static/css/main.ac2fc43c.chunk.css.map": "/Text-Util-React/static/css/main.ac2fc43c.chunk.css.map",
+  "index.html": "/Text-Util-React/index.html",
+  "precache-manifest.6ca6266bfce13912e3856bc8fb37de5f.js": "/Text-Util-React/precache-manifest.6ca6266bfce13912e3856bc8fb37de5f.js",
+  "service-worker.js": "/Text-Util-React/service-worker.js"
 }
